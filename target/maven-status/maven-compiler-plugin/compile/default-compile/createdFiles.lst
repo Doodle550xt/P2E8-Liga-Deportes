@@ -8,6 +8,7 @@ com/upiiz/deportes/entities/Liga.class
 com/upiiz/deportes/controllers/EntrenadorController.class
 com/upiiz/deportes/config/SwaggerConfig.class
 com/upiiz/deportes/entities/Jugador.class
+com/upiiz/deportes/config/CorsConfig.class
 com/upiiz/deportes/entities/Equipo.class
 com/upiiz/deportes/controllers/EquipoController.class
 com/upiiz/deportes/services/JwtService.class
